@@ -1,7 +1,7 @@
 @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css);
 #home {
     --first-color: #674ea8;
-    --second-color: #f4e767;    
+    --second-color: #f7efa6;    
     --light-gray: lightgray;
 }
 
@@ -170,15 +170,7 @@ figure.hero figcaption * {
     padding: 0;
 }
 
-.flexbox-container {
 
-}
-
-.flexbox-item {
-    width: 200px;
-    margin: 10px:
-    
-}
 #offcanvas-left ul,
 #offcanvas-right ul {
     padding: 0
